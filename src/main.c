@@ -643,9 +643,6 @@ void qtp_init() {
 		layer_add_child(window_get_root_layer(qtp_window), inverter_layer_get_layer(qtp_inverter_layer));
 	}
 
-	/* Register for back button */
-	window_set_click_config_provider(qtp_window, (ClickConfigProvider)qtp_click_config_provider);
-
 }
 
 
