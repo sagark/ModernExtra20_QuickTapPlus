@@ -1,6 +1,6 @@
-ModernExtra20
+ModernExtra20 + QuickTapPlus
 =============
 
-Modern watchface (thanks to Zalew) providing bluetooth connection status and watch battery charge level (with charging indicator).
-
-When the battery falls below 20% power, the second hand disappears in order to conserve power.
+This is a fork of JamesFowler42's Modern watchface (originally by Zalew). It 
+incorporates QuickTapPlus (https://github.com/grep-awesome/QuickTapPlus) for 
+extra information at-a-glance.
