@@ -1,16 +1,16 @@
 {
     "versionLabel": "1.0.0",
-    "uuid": "698B3E04-B12E-4FF5-BFAD-1BE6BDEEB5D8",
+    "uuid": "6adc37bf-f944-4243-88e4-c67e00750b57",
     "appKeys": {
         "dummy": 0
     },
-    "longName": "Modern Extra",
+    "longName": "Modern Extra QTP",
     "versionCode": 1,
     "capabilities": [
         ""
     ],
-    "shortName": "Modern Extra",
-    "companyName": "Zalew/Fowler",
+    "shortName": "Modern Extra QTP",
+    "companyName": "Zalew/Fowler/grepawesome/sagark",
     "watchapp": {
         "watchface": true
     },
