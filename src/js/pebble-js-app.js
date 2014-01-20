@@ -1,4 +1,3 @@
-
 	/* Initialize QTPlus within your app */
 	var QTPlusInit = function(){
 		var weather_interval, failed_attempts;
@@ -151,7 +150,7 @@
 							failed_attempts = 0;
 							sendWeather({
 								"0": weather.icon,
-								"1": roundTo(((1.8 * weather.temperature)+32), 1).toString() + "\u00B0F",
+								"1": roundTo((weather.temperature), 1).toString() + "\u00B0F",
 								"2": weather.city,
 								"3": weather.description,
 								"4": roundTo(weather.temperature,1).toString() + "\u00B0C"
